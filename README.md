@@ -1,2 +1,2 @@
-# some-website
+# some-websites
 school websites front end
